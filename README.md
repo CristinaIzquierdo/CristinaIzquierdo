@@ -1,17 +1,14 @@
-### Hi there 👋
+### Hi there 👋 my name is Cristina Izquierdo Gallego 
+
+🔭 I’m currently working on the development of a website to help Spanish doctors in the fight against covid.
+🌱 At the same time I'm studying programming, frontend, and databases.
+
+💬 Ask me about Java, Big Data, HTML and CSS.
+📫 How to reach me: 7646cizquierdo@e-itaca.es
+
+⚡ Other things: 
+:basketball: I've been playing basketball for six years on different teams.
+:cinema: I really enjoy everything related to cinema and movies (my favorite one is Interstellar).
 
 
-CristinaIzquierdo2020/CristinaIzquierdo2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## ESTO ES UNA PRUEBA
 
