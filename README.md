@@ -8,11 +8,11 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 ###  📫 How to reach me: 7646cizquierdo@e-itaca.es
 ------------------------------------------------------------------------------------------------------------------------------------
-⚡ Other things: 
+#### ⚡ Other things: 
 ************************************************************************************************************************************
-:basketball: I've been playing basketball for six years on different teams.
+#### :basketball: I've been playing basketball for six years on different teams.
 ************************************************************************************************************************************
-:cinema: I really enjoy everything related to cinema and movies (my favorite one is Interstellar).
+#### :cinema: I really enjoy everything related to cinema and movies (my favorite one is Interstellar).
 
 
 
