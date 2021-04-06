@@ -1,4 +1,4 @@
-# Hi there 👋 my name is Cristina Izquierdo Gallego 
+# Hi there 👋 my name is Cristina Izquierdo
 
 ###  🔭 I’m currently working on the development of a website to help Spanish doctors in the fight against covid.
 ------------------------------------------------------------------------------------------------------------------------------------
