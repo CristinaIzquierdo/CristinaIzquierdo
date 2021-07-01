@@ -1,4 +1,4 @@
-# Hi there 👋 my name is Cristina Izquierdo
+# Hey! Fancy seeing you here!! 
 
 ###  🔭 I’m currently working on the development of a website to help Spanish doctors in the fight against covid.
 ###  🌱 At the same time I'm studying programming, frontend, and databases.
