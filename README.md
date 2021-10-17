@@ -1,8 +1,8 @@
 # Hey! Fancy seeing you here!! 
 
-###  🔭 I’m currently working on the development of a website to help Spanish doctors in the fight against covid.
-###  🌱 At the same time I'm studying programming, frontend, and databases.
-###  💬 Ask me about Java, Big Data, HTML and CSS.
+###  🔭 I’m currently studying for a higher degree in Web Application Development
+###  🌱 At the same time I'm studying web-design, Typescript, and databases.
+###  💬 Ask me about Java, SQL, HTML or CSS.
 ###  📫 How to reach me: cristinaizquierdo2000@gmail.com
 #### ⚡ Other things: 
 ************************************************************************************************************************************
